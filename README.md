@@ -1,7 +1,7 @@
 
   <br><br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ffffff&height=200&section=header&text=Welcome%20to%20g0yujin's%20Github&desc=&fontSize=50&descSize=30&fontColor=000000&fontAlignY=50&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200§ion=header&text=Welcome%20to%20g0yujin's%20Github&desc=&fontSize=50&descSize=30&fontColor=000000&fontAlignY=40&animation=fadeIn)
  
 <div align="center">
   <img src="https://github.com/g0yujin/Baekjoon-Python/assets/136612437/3d312405-aa0c-4f5d-a982-2602f99fb840" width="200" height="200" />
