@@ -1,62 +1,93 @@
-<div align="center">
-  <img src="https://github.com/g0yujin/Baekjoon-Python/assets/136612437/3d312405-aa0c-4f5d-a982-2602f99fb840" width="300" height="300" />
+
+  <br><br>
+
+ # <div align="center">Welcome to g0yujin's Github</span>
 </div>
 
-
-### <div align="center">Welcome to g0yujin's Github
-</div>  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-
-  
-
-<br/>  
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0yujin&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=g0yujin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-## Connect with me  
+ 
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+  <img src="https://github.com/g0yujin/Baekjoon-Python/assets/136612437/3d312405-aa0c-4f5d-a982-2602f99fb840" width="200" height="200" />
+</div>
+<br/>  
+<br/>  
+
+
+
+
+
+
+### <div align=center>💻 Tech Stack 💻</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+	<img  src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  <br>
+	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
+	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img  src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+	<img  src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+	
+<div align=center>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65; height: 65; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65px" style="width: 65px; height: 65px;" />
+
+</div>
+
+  
+
+<br/>  
+<br/>  
+
+### <div align=center>🛠 Tools 🛠 </div>
+
+<div align=center>
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
+	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+	<img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white">
+	<img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=pycharm&logoColor=white">
+	<img src="https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/adobe illustrator-FF9A00.svg?&style=for-the-badge&logo=adobe illustrator&logoColor=white">
+	<img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">
+	
+</div>
+  
+
+<br/>
+<br/>  
+
+### <div align=center>💌 Connect with me  💌</div>
+<div align="center">
+<a href="https://github.com/g0yujin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/g0yujin" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="mailto:dbwbsqhd016@gmail.com">
+    <img src="https://img.shields.io/badge/dbwbsqhd016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+<a href="https://">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
+  </a>
+
 </div>  
+
+<br/>  
+<br/>  
+<br/>
+ <div align="center">
+  <!-- 백준 Solved.ac 프로필 -->
+  <a href="https://solved.ac/g0yujin"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=g0yujin" alt="Solved.ac 프로필" width="300"></a>
+</div>
 
 
 
