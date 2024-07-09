@@ -1,3 +1,5 @@
+![KakaoTalk_Photo_2024-06-07-00-43-20](https://github.com/g0yujin/Baekjoon-Python/assets/136612437/3d312405-aa0c-4f5d-a982-2602f99fb840)
+
 ### <div align="center">Welcome to g0yujin's Github
 </div>  
   
