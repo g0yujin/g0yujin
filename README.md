@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/g0yujin/Baekjoon-Python/assets/136612437/3d312405-aa0c-4f5d-a982-2602f99fb840" width="200" height="200" />
+  <img src="https://github.com/g0yujin/Baekjoon-Python/assets/136612437/3d312405-aa0c-4f5d-a982-2602f99fb840" width="300" height="300" />
 </div>
 
 
