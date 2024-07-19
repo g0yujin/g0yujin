@@ -72,7 +72,7 @@
 <a href="mailto:dbwbsqhd016@gmail.com">
     <img src="https://img.shields.io/badge/dbwbsqhd016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-<a href="https://">
+<a href="https://velog.io/@g0yujin/posts">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
 
